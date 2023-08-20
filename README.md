@@ -1,5 +1,4 @@
-![Banner](https://github.com/Suraj-kumar00/Suraj-kumar00/blob/main/Github%20Banner.png)
-
+![GihubBanner](https://github.com/Suraj-kumar00/Suraj-kumar00/assets/123288511/ddde374c-fe44-405e-a576-550df39bb446)
 <h1 align="center">Hi 👋, I'm Suraj</h1>
 
 <p align="center">
