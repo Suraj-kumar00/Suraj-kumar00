@@ -1,4 +1,4 @@
-![techstack](https://github.com/Suraj-kumar00/Suraj-kumar00/blob/main/Gihub%20Banner.png)
+![Banner](https://github.com/Suraj-kumar00/Suraj-kumar00/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Suraj</h1>
 
