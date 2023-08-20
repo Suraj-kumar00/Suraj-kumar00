@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Suraj-kumar00/Suraj-kumar00/blob/main/Github%20Banner.png]
+![techstack]()
 
 <h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">Web Developer and DevOps Enthusiast</h3>
@@ -9,13 +9,15 @@
 <p align="left"> <a href="https://twitter.com/surajk_umar01" target="blank">
 <img src="https://img.shields.io/twitter/follow/surajk_umar01?logo=twitter&style=for-the-badge" alt="surajk_umar01" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs**
 
-- 📝 I regularly write articles on [https://surajk00.hashnode.dev/](https://surajk00.hashnode.dev/)
-
-- 💬 Ask me about **Reactjs, JavaScript**
-
+- 🧑🏻‍💻 I am an Aspiring Web Developer
+- 🌐 Open-source Contribution 
+- 🌱 Currently Learning **JavaScript** &  **Reactjs**
 - 📫 How to reach me **suraj.ukumar.p@gmail.com**
+- 📝 I'm a Technical Writer at @hashnode [https://surajk00.hashnode.dev/](https://surajk00.hashnode.dev/)
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
