@@ -45,12 +45,15 @@
 <!-- come on let's connect here -->
 
 ## <h3 align="left"> Connect with me:</h3>
-
 <p align="left">
 <a href="https://twitter.com/surajk_umar01" target="blank">
  <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="surajk_umar01" /></a>
 <a href="https://linkedin.com/in/surajkumar00" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="surajkumar00" /></a>
+<a href="https://discord.gg/PCmDTcz9" target="blank">
+ <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="surajkumar00" /></a>
 <a href="https://www.leetcode.com/suraj-kumar00" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
+<a href="https://dashboard.twitch.tv/u/suraj_kumar00/home" target="blank">
+ <img align="center" src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=fff&style=for-the-badge" alt="surajk_umar01" /></a>
 </p>
 
 <!-- these are my tech stacks that i'm using currently-->
@@ -83,11 +86,12 @@
 ## 🌱 Looking forward to learn:
 
 <br>
-<code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge"></a></code><code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge"></a></code>
-<code><a href="https://analytics.google.com/" target="_blank"><img height="30" src=""></a></code>
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
-<code><a href="https://reactnative.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
-<code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
+<code><a href="https://go.dev/" target="_blank"><img height="30" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="30" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge"></a></code><code><a href="https://kubernetes.io/" target="_blank"><img height="30" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge"></a></code>
+<code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a></code>
+<code><a href="https://www.terraform.io/" target="_blank"><img height="30" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=fff&style=for-the-badge"></a></code>
+<code><a href="https://www.jenkins.io/" target="_blank"><img height="30" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=for-the-badge"></a></code>
+<code><a href="https://prometheus.io/docs/introduction/overview/" target="_blank"><img height="30" src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=for-the-badge"></a></code>
 </details>
 <br>
 
