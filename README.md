@@ -22,7 +22,7 @@
 
 - 🧑🏻‍💻 I am an Aspiring Web Developer
 - 🌐 Open-source Contribution 
-- 🌱 Currently Learning **JavaScript** &  **Reactjs**
+- 🌱 Learning **JavaScript**, **Reactjs** & **DevOps Tools and technologies**
 - 📫 How to reach me **suraj.ukumar.p@gmail.com**
 - 📝 I'm a Technical Writer at @hashnode [https://surajk00.hashnode.dev/](https://surajk00.hashnode.dev/)
 <br>
