@@ -21,8 +21,9 @@
 ## About me 
 
 - 🧑🏻‍💻 I am an Aspiring Web Developer
-- 🌐 Open-source Contribution 
-- 🌱 Learning **JavaScript**, **Reactjs** & **DevOps Tools and technologies**
+- 🌐 Open-source Contribution
+- 😎 Worked in **JavaScript**, **Reactjs** 
+- 🌱 Learning **DevOps Tools and technologies**
 - 📫 How to reach me **suraj.ukumar.p@gmail.com**
 - 📝 I'm a Technical Writer at @hashnode [https://surajk00.hashnode.dev/](https://surajk00.hashnode.dev/)
 <br>
