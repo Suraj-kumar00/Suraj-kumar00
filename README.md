@@ -61,7 +61,13 @@
 
 <br>
 
+<!--Hacktoberfest 2023 Badges-->
 
+## Hacktoberfest 2023 Badges
+
+[![Hacktoberfest 2023 Badges](https://holopin.me/surajkumar00)](https://holopin.io/@surajkumar00)
+
+<!--Hacktoberfest 2023 Badges ends here-->
 
 ## ✨ Tech stack currently using:
    <br>
@@ -97,9 +103,6 @@
 <br>
 
 
-
-
-
 ## Operating Systems </h3>  
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)
@@ -111,11 +114,6 @@
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 
 ---
-
-
-
-
-
 
 
 ![Suraj-kumar00's Stats](https://github-readme-stats.vercel.app/api?username=Suraj-kumar00&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)![Suraj-kumar00's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suraj-kumar00&theme=tokyonight&hide_border=true)
