@@ -120,4 +120,7 @@
 ![Suraj-kumar00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-kumar00&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
+<!-- This is LeetCode Stats-->
+![](https://leetcard.jacoblin.cool/Suraj-kumar00?ext=heatmap)
+
 
