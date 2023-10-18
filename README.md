@@ -79,7 +79,7 @@
 
 <!--Hacktoberfest 2023 Badges ends here-->
 
-## ✨ Tech stack currently using:
+## ✨ Tech stacks:
    <br>
 <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
