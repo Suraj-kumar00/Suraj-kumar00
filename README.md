@@ -23,8 +23,7 @@
 
 ## About me 
 
-- 🧑🏻‍💻 I am an Aspiring Web Developer
-- 🌐 Open-source Contribution
+- 🧑🏻‍💻 Open-source Contribution
 - 😎 Worked in **JavaScript**, **Reactjs** 
 - 🌱 Learning **DevOps Tools and technologies**
 - 📫 How to reach me **suraj.ukumar.p@gmail.com**
