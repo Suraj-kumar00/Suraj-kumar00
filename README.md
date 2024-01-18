@@ -1,6 +1,6 @@
 <!-- This is the Header Banner of my profile -->
 
-![GihubBanner]()
+![GihubBanner](https://github.com/Suraj-kumar00/Suraj-kumar00/blob/main/Gtihub_Banner.png)
 
 <!-- This is my name -->
 
