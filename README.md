@@ -9,7 +9,7 @@
 <!-- This is Typing SVG -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00D9F7&center=true&vCenter=true&width=435&lines=I'm+a+Web+Developer+;Open-Source+Contributor;DevOps+Enthusiast"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00D9F7&center=true&vCenter=true&width=435&lines=I'm+a+DevOps+Guy;Open-Source+Contributor;"></a>
 </p>
 
 <!-- Visitors counter -->
@@ -22,10 +22,10 @@
     <td>
 
 ## About me 
-
+- ♾️ DevOps Guy
+- 🌱 Learning **DevOps Tools and technologies**
 - 🧑🏻‍💻 Open-source Contribution
 - 😎 Worked in **JavaScript**, **Reactjs** 
-- 🌱 Learning **DevOps Tools and technologies**
 - 📫 How to reach me **suraj.ukumar.p@gmail.com**
 - 📝 I'm a Technical Writer at @hashnode [https://surajk00.hashnode.dev/](https://surajk00.hashnode.dev/)
 </td>
