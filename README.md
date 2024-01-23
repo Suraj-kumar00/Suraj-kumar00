@@ -23,8 +23,7 @@
 
 ## About me 
 - ♾️ DevOps Guy
-- 🌱 Learning **DevOps Tools and technologies**
-- 🧑🏻‍💻 Open-source Contribution
+- 🧑🏻‍💻 Open-source
 - 😎 Worked in **JavaScript**, **Reactjs** 
 - 📫 How to reach me **suraj.ukumar.p@gmail.com**
 - 📝 I'm a Technical Writer at @hashnode [https://surajk00.hashnode.dev/](https://surajk00.hashnode.dev/)
