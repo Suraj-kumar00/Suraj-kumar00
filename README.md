@@ -90,7 +90,7 @@
 <!-- these are my tech stacks that i'm Looking forward to learn -->
 
 
-## 🌱 Looking forward to learn:
+## 🌱 Currently learning:
 
 <br>
 <code><a href="https://go.dev/" target="_blank"><img height="30" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge"></a></code>
