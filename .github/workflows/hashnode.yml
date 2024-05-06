@@ -1,22 +1,20 @@
-name: 'Hashnode Blogs'
-
+name: hashnode-card
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: '0 0 * * *' # Runs every hour, on the hour.
-
+    - cron: "0 0 * * *"
 jobs:
-  update_blogs:
-    name: 'Hashnode Latest Blogs'
+  hashnode-card:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: 'Fetch Repository Contents'
-        uses: actions/checkout@main
-
-      - name: 'Hashnode Blog Action'
-        uses: "Sachin-chaurasiya/hashnode-blog-action@main"
+      - name: hashnode-card
+        uses: hashnode/action-hashnode-card@1.0.0
         with:
-          HASHNODE_PUBLICATION_NAME: 'blog.surajk00.dev'
-          FORMAT: 'stacked'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          username: ${{ secrets.HASHNODE_USERNAME }}
+          api_key: ${{ secrets.HASHNODE_API_KEY }}
+          commit_message: "chore: update ${filename}"
