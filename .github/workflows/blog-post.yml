@@ -1,14 +1,23 @@
-name: Latest blog post workflow
+name: "📚 Blog Updater"
+
 on:
-  schedule: # Run workflow automatically
-    - cron: "0 * * * *" # Runs every hour, on the hour
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
 jobs:
-  update-readme-with-blog:
-    name: Update README with latest blog posts
+  update_blogs:
+    name: "Update Blogs"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+      
+      - name: "📚  Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          max_post_count: 10
-          feed_list: "https://blog.surajk00.dev/rss.xml"
+          USERNAME: 'surajkumar00'
+          COUNT: 6
+          STYLE: "left"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
