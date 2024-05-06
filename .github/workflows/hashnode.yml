@@ -1,20 +1,24 @@
-name: hashnode-card
+name: "📚 latest Blog"
+
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */24 * * *" # Runs Every 24 Hours
+
 jobs:
-  hashnode-card:
+  update_blogs:
+    name: "Update With Latest Blogs"
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - name: hashnode-card
-        uses: hashnode/action-hashnode-card@1.0.0
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+
+      - name: "📚  Hashnode Updater"
+        uses: "Suraj-kumar00/action-hashnode-blog@1.1.1"
         with:
-          username: ${{ secrets.HASHNODE_USERNAME }}
-          api_key: ${{ secrets.HASHNODE_API_KEY }}
-          commit_message: "chore: update ${filename}"
+          USERNAME: "surajkumar00" # Hashnode Username
+          COUNT: 4 # MAX Visisble
+          STYLE: "blog-left"
+          BLOG_URL: "https://blog.surajk00.dev/"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
