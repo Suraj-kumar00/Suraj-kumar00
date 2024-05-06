@@ -1,14 +1,16 @@
-name: Latest blog post workflow
+name: Latest Hashnode Articles
 on:
-  schedule: # Run workflow automatically
-    - cron: "0 * * * *" # Runs every hour, on the hour
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
 jobs:
-  update-readme-with-blog:
-    name: Update README with latest blog posts
+  update-readme-with-hashnode-articles:
+    name: Update this repo's README with latest Hashnode Articles
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: 10
-          feed_list: "https://blog.surajk00.dev/rss.xml"
+          comment_tag_name: "HASHNODE-BLOG-LIST"
+          feed_list: "https://surajk00.hashnode.dev/"
