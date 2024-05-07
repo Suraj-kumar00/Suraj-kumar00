@@ -27,7 +27,7 @@
 - 😎 Worked in **JavaScript**, **Reactjs**
 - AI/ML Enthusiast
 - 📫 How to reach me **suraj.ukumar.p@gmail.com**
-- 📝 I'm a Technical Writer at @hashnode [https://surajk00.hashnode.dev/](https://surajk00.hashnode.dev/)
+- 📝 I'm a Technical Writer at [@hashnode](https://surajk00.hashnode.dev/)
 </td>
 <td>
 <a align="center"  href="https://app.daily.dev/Surajkumar00"><img src="https://api.daily.dev/devcards/3ffdf10c31754b0b8990e50630821fca.png?r=57l" width="400" alt="Suraj's Dev Card"/></a>
