@@ -39,17 +39,9 @@
 
 <!-- Read the blogs here on my hashnode profile -->
 
-## Read technical blogs here:
-<p align="left"> 
-
-</a>
-  <a href="https://surajk00.hashnode.dev/"
-    target="_blank"
-    rel="suraj hashnode" >
-    <img
-      src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-</p>
+## Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 
 <!-- come on let's connect here -->
@@ -61,12 +53,13 @@
 <a href="https://linkedin.com/in/surajkumar00" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="surajkumar00" /></a>
 <a href="https://discord.gg/PCmDTcz9" target="blank">
  <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="surajkumar00" /></a>
+<a href="https://hashnode.com/@surajkumar00" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 <a href="https://www.leetcode.com/suraj-kumar00" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
 <a href="https://dashboard.twitch.tv/u/suraj_kumar00/home" target="blank">
  <img align="center" src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=fff&style=for-the-badge" alt="surajk_umar01" /></a>
 </p>
 
-<!-- these are my tech stacks that i'm using currently-->
+<!-- these are the tech stacks that I'm using currently-->
 
 <br>
 
@@ -121,9 +114,7 @@
 ![Suraj-kumar00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-kumar00&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
-# Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
-<!-- HASHNODE_BLOG:END -->
+
 
 
 
