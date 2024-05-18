@@ -41,6 +41,44 @@
 
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+<p align="left"><a href="https://surajk00.hashnode.dev/my-lfx-mentorship-experience" title="My LFX Mentorship Experience"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1711358788030/c94476af-9de9-48e8-a773-7871e9355d0f.png" alt="My LFX Mentorship Experience" width="300px" align="left" /></a><a href="https://surajk00.hashnode.dev/my-lfx-mentorship-experience" title="My LFX Mentorship Experience"><strong>My LFX Mentorship Experience</strong></a><div><strong>April 3, 2024</strong></div><br/>What is the LFX Mentorship program?
+The Linux Foundation Mentorship Program, commonly known as LFX Mentorship, LFX mentorship is previously known as community bridge. It's a platform designed by the L...</p><br/><br/>
+
+<p align="left"><a href="https://surajk00.hashnode.dev/computer-networking-course-how-does-the-internet-work" title="Computer Networking Course: How does the internet work?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695924470719/00c5f7e5-fdf7-4bc8-a273-0e942d38f969.png" alt="Computer Networking Course: How does the internet work?" width="300px" align="left" /></a><a href="https://surajk00.hashnode.dev/computer-networking-course-how-does-the-internet-work" title="Computer Networking Course: How does the internet work?"><strong>Computer Networking Course: How does the internet work?</strong></a><div><strong>February 23, 2024</strong></div><br/>How did it all start?
+
+During the Cold War, the United States and the Soviet Union competed to be the best.
+
+In 1957, the Soviet Union surprised everyone by launching Sputnik 1, the first man-made sat...</p><br/><br/>
+
+<p align="left"><a href="https://surajk00.hashnode.dev/linux-system-administration" title="Linux System Administration"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1707742641126/382a52b2-65cf-45ef-9adf-6b9baf90cea3.png" alt="Linux System Administration" width="300px" align="left" /></a><a href="https://surajk00.hashnode.dev/linux-system-administration" title="Linux System Administration"><strong>Linux System Administration</strong></a><div><strong>February 14, 2024</strong></div><br/>Linux file editor(vi):
+
+A text editor is a program that enables you to create and manipulate data (text) in a Linux file
+
+There are several standard text editors available on most Linux systems
+
+vi - ...</p><br/><br/>
+
+<p align="left"><a href="https://surajk00.hashnode.dev/linux-fundamentals" title="Linux Fundamentals"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706640781804/61d542b1-b99f-457f-a43e-6eef795202a1.png" alt="Linux Fundamentals" width="300px" align="left" /></a><a href="https://surajk00.hashnode.dev/linux-fundamentals" title="Linux Fundamentals"><strong>Linux Fundamentals</strong></a><div><strong>February 4, 2024</strong></div><br/>Linux Command Syntax:
+Commands typically have the syntax:
+command option argument or
+ls [OPTION]... [FILE]…
+for example:
+ls -ltr linux.txt
+
+OPTION: Modify the way that a command works
+
+usually consist...</p><br/><br/>
+
+<p align="left"><a href="https://surajk00.hashnode.dev/introduction-to-linux" title="Introduction to Linux"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1705775930236/ea8ef59e-ad29-4da5-89b3-f7b931641d98.png" alt="Introduction to Linux" width="300px" align="left" /></a><a href="https://surajk00.hashnode.dev/introduction-to-linux" title="Introduction to Linux"><strong>Introduction to Linux</strong></a><div><strong>January 25, 2024</strong></div><br/>Let's first understand what is Operating System(O.S):
+
+An OS is system software that manages computer hardware and software resources and provides common services for computer programs.
+
+In a nutshell...</p><br/><br/>
+
+<p align="left"><a href="https://surajk00.hashnode.dev/markdown-crash-course" title="Markdown Crash Course"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1705341450060/52e803ad-84f1-4738-b656-9c4eac6a8156.png" alt="Markdown Crash Course" width="300px" align="left" /></a><a href="https://surajk00.hashnode.dev/markdown-crash-course" title="Markdown Crash Course"><strong>Markdown Crash Course</strong></a><div><strong>January 17, 2024</strong></div><br/>Short introduction of Markdown
+Markdown is a lightweight markup language created by John Gruber and Aaron Swartz in 2004. It is widely used for blogging, instant messaging, online forums, collaborativ...</p><br/><br/>
+
+
 <!-- HASHNODE_BLOG:END -->
 
 
