@@ -2,7 +2,7 @@ name: Update Recent Activity
 
 on:
   schedule:
-    - cron: "*/45 * * * *"
+    - cron: "0 0 * * *"  # This will run once every 24 hours at midnight UTC
 
 jobs:
   build:
@@ -17,3 +17,8 @@ jobs:
         with:
           COMMIT_MSG: "Updated README with recent activities"
           MAX_LINES: 10
+          GH_USERNAME: Suraj-kumar00
+          COMMIT_NAME: github-actions[bot]
+          COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          TARGET_FILE: README.md
+          EMPTY_COMMIT_MSG: ":memo: empty commit to keep workflow active after 60 days of no activity"
