@@ -1,14 +1,19 @@
-name: Latest blog post workflow
+name: Update Recent Activity
+
 on:
-  schedule: # Run workflow automatically
-    - cron: "0 * * * *" # Runs every hour, on the hour
+  schedule:
+    - cron: "*/45 * * * *"
+
 jobs:
-  update-readme-with-blog:
-    name: Update README with latest blog posts
+  build:
     runs-on: ubuntu-latest
+    name: Update this repo's README with recent activities
+
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          max_post_count: 10
-          feed_list: "https://blog.surajk00.dev/rss.xml"
+          COMMIT_MSG: "Updated README with recent activities"
+          MAX_LINES: 10
