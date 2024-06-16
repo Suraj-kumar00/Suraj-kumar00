@@ -18,6 +18,5 @@ jobs:
         with:
           HASHNODE_PUBLICATION_NAME: 'surajk00.hashnode.dev/'
           FORMAT: 'stacked'
-          NUMBER_OF_BLOGS: 4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
