@@ -30,8 +30,9 @@
 - 📫 How to reach me **suraj.ukumar.p@gmail.com**
 </td>
 <td>
-<a align="center"  href="https://app.daily.dev/Surajkumar00"><img src="https://api.daily.dev/devcards/3ffdf10c31754b0b8990e50630821fca.png?r=57l" width="400" alt="Suraj's Dev Card"/></a>
-   </td>
+  <a href="https://app.daily.dev/surajkumar00"><img src="https://api.daily.dev/devcards/v2/4E1RDJyIvsiHn4ej7JYMu.png?r=g72&type=default" width="356" alt="Suraj's Dev Card"/></a>
+<!-- <a align="center"  href="https://app.daily.dev/Surajkumar00"><img src="https://api.daily.dev/devcards/3ffdf10c31754b0b8990e50630821fca.png?r=57l" width="400" alt="Suraj's Dev Card"/></a>
+   </td> -->
   </tr>
  </table>
 
