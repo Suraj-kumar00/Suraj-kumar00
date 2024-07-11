@@ -42,20 +42,13 @@
 
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<p align="left"><a href="https://surajk00.hashnode.dev/shellbash-scripting-lets-write-our-first-bash-script" title="Shell/Bash Scripting - Let's write our first Bash Script"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706695521993/03440fa0-f96e-4116-8c14-f249ca9d4f5a.png" alt="Shell/Bash Scripting - Let's write our first Bash Script" width="300px" align="left" /></a><a href="https://surajk00.hashnode.dev/shellbash-scripting-lets-write-our-first-bash-script" title="Shell/Bash Scripting - Let's write our first Bash Script"><strong>Shell/Bash Scripting - Let's write our first Bash Script</strong></a><div><strong>July 9, 2024</strong></div><br/>Pre-Requisites to learn Bash/Shell Scripting:
-
-Linux basics
-
+<p align="left"><a href="https://surajk00.hashnode.dev/shellbash-scripting-lets-write-our-first-bash-script" title="Shell/Bash Scripting - Let's write our first Bash Script"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706695521993/03440fa0-f96e-4116-8c14-f249ca9d4f5a.png" alt="Shell/Bash Scripting - Let's write our first Bash Script" width="300px" align="left" /></a><a href="https://surajk00.hashnode.dev/shellbash-scripting-lets-write-our-first-bash-script" title="Shell/Bash Scripting - Let's write our first Bash Script"><strong>Shell/Bash Scripting - Let's write our first Bash Script</strong></a><div><strong>July 9, 2024</strong></div><br/>Pre-Requisites to learn Bash/Shell Scripting: Linux basics
 Command line basics
-
 No programming knowledge required
-
 
 What is a Kernel?
 Interface between hardware and software
-
 What is a Bash/Shell?
-
 ...</p><br/><br/>
 
 <p align="left"><a href="https://surajk00.hashnode.dev/my-lfx-mentorship-experience" title="My LFX Mentorship Experience"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1711358788030/c94476af-9de9-48e8-a773-7871e9355d0f.png" alt="My LFX Mentorship Experience" width="300px" align="left" /></a><a href="https://surajk00.hashnode.dev/my-lfx-mentorship-experience" title="My LFX Mentorship Experience"><strong>My LFX Mentorship Experience</strong></a><div><strong>April 3, 2024</strong></div><br/>What is the LFX Mentorship program?
