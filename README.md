@@ -41,7 +41,8 @@
 <!-- Read the blogs here on my hashnode profile -->
 
 ## Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
+
+<!--START_SECTION:activity-->
 <p align="left"><a href="https://surajk00.hashnode.dev/shellbash-scripting-lets-write-our-first-bash-script" title="Shell/Bash Scripting - Let's write our first Bash Script"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706695521993/03440fa0-f96e-4116-8c14-f249ca9d4f5a.png" alt="Shell/Bash Scripting - Let's write our first Bash Script" width="300px" align="left" /></a><a href="https://surajk00.hashnode.dev/shellbash-scripting-lets-write-our-first-bash-script" title="Shell/Bash Scripting - Let's write our first Bash Script"><strong>Shell/Bash Scripting - Let's write our first Bash Script</strong></a><div><strong>July 9, 2024</strong></div><br/>Pre-Requisites to learn Bash/Shell Scripting:
 
 Linux basics
@@ -93,7 +94,7 @@ An OS is system software that manages computer hardware and software resources a
 In a nutshell...</p><br/><br/>
 
 
-<!-- HASHNODE_BLOG:END -->
+<!--END_SECTION:activity-->
 
 
 <!-- come on let's connect here -->
