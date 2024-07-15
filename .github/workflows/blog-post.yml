@@ -3,6 +3,7 @@ name: Update Recent Activity
 on:
   schedule:
     - cron: "30 4 * * 0"  # This will run every Sunday at 10:00 AM IST
+  workflow_dispatch:  # This allows manual triggering of the workflow
 
 jobs:
   build:
