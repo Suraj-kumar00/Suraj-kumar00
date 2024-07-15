@@ -11,20 +11,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 'Fetch Repository Contents'
-        uses: actions/checkout@v2
+        uses: actions/checkout@main
 
-      - name: 'Fetch Latest Blog Posts'
-        id: fetch-posts
-        uses: Sachin-chaurasiya/hashnode-blog-action@main
+      - name: 'Hashnode Blog Action'
+        uses: 'Sachin-chaurasiya/hashnode-blog-action@main'
         with:
           HASHNODE_PUBLICATION_NAME: 'surajk00.hashnode.dev/'
-          FORMAT: 'stacked limit=4'
+          POST_COUNT: 4
+          FORMAT: 'list'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 'Append Latest Blog Posts to README'
-        run: |
-          echo "${{ steps.fetch-posts.outputs.posts }}" >> README.md
-          git add README.md
-          git commit -m "Update README with latest blog posts"
-          git push
+
+
+
