@@ -43,21 +43,7 @@
 ## Latest Blog Posts 👇
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/mohitjoping/css_by_examples/pull/1) in [mohitjoping/css_by_examples](https://github.com/mohitjoping/css_by_examples)
-
-2. 💪 Opened PR [#21225](https://github.com/JetBrains/swot/pull/21225) in [JetBrains/swot](https://github.com/JetBrains/swot)
-
-3. 🎉 Merged PR [#15](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github/pull/15) in [Suraj-kumar00/Getting-started-with-Git-Github](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github)
-
-4. 💪 Opened PR [#15](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github/pull/15) in [Suraj-kumar00/Getting-started-with-Git-Github](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github)
-
-
-5. 🎉 Merged PR [#14](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github/pull/14) in [Suraj-kumar00/Getting-started-with-Git-Github](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github)
-Interface between hardware and software
-
-What is a Bash/Shell?
-
-...</p><br/><br/>
+</p><br/><br/>
 
 <p align="left"><a href="https://surajk00.hashnode.dev/my-lfx-mentorship-experience" title="My LFX Mentorship Experience"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1711358788030/c94476af-9de9-48e8-a773-7871e9355d0f.png" alt="My LFX Mentorship Experience" width="300px" align="left" /></a><a href="https://surajk00.hashnode.dev/my-lfx-mentorship-experience" title="My LFX Mentorship Experience"><strong>My LFX Mentorship Experience</strong></a><div><strong>April 3, 2024</strong></div><br/>What is the LFX Mentorship program?
 The Linux Foundation Mentorship Program, commonly known as LFX Mentorship, LFX mentorship is previously known as community bridge. It's a platform designed by the L...</p><br/><br/>
