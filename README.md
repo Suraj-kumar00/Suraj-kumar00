@@ -42,7 +42,7 @@
 
 ## Latest Blog Posts 👇
 
-<!--START_SECTION:activity-->
+<!-- HASHNODE_BLOG:START -->
 </p><br/><br/>
 
 <p align="left"><a href="https://surajk00.hashnode.dev/my-lfx-mentorship-experience" title="My LFX Mentorship Experience"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1711358788030/c94476af-9de9-48e8-a773-7871e9355d0f.png" alt="My LFX Mentorship Experience" width="300px" align="left" /></a><a href="https://surajk00.hashnode.dev/my-lfx-mentorship-experience" title="My LFX Mentorship Experience"><strong>My LFX Mentorship Experience</strong></a><div><strong>April 3, 2024</strong></div><br/>What is the LFX Mentorship program?
@@ -80,7 +80,7 @@ An OS is system software that manages computer hardware and software resources a
 In a nutshell...</p><br/><br/>
 
 
-<!--END_SECTION:activity-->
+<!-- HASHNODE_BLOG:END -->
 
 
 <!-- come on let's connect here -->
