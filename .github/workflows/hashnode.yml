@@ -8,46 +8,23 @@ on:
 jobs:
   update_blogs:
     name: 'Hashnode Latest Blogs'
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     steps:
       - name: 'Fetch Repository Contents'
-        uses: actions/checkout@main
+        uses: actions/checkout@v2
 
-      - name: 'Hashnode Blog Action'
-        id: hashnode
-        uses: "Sachin-chaurasiya/hashnode-blog-action@main"
+      - name: 'Fetch Latest Blog Posts'
+        id: fetch-posts
+        uses: Sachin-chaurasiya/hashnode-blog-action@main
         with:
           HASHNODE_PUBLICATION_NAME: 'surajk00.hashnode.dev/'
           FORMAT: 'stacked limit=4'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 'Format and Update README'
+      - name: 'Append Latest Blog Posts to README'
         run: |
-          posts=$(echo "${{ steps.hashnode.outputs.posts }}")
-          readme_content=""
-          for post in $posts; do
-            thumbnail=$(echo $post | jq -r '.thumbnail')
-            title=$(echo $post | jq -r '.title')
-            link=$(echo $post | jq -r '.link')
-            description=$(echo $post | jq -r '.description')
-
-            # Format each post into Markdown table row
-            post_content="<table><tr><td><img src=\"$thumbnail\" alt=\"$title\"></td><td><a href=\"$link\"><strong>$title</strong></a><br>$description</td></tr></table>"
-            
-            # Append to readme_content
-            readme_content="$readme_content\n$post_content"
-          done
-
-          # Replace README.md with formatted content
-          echo -e "$readme_content" > README.md
-
-      - name: 'Commit Changes'
-        run: |
-          git config --global user.email "github-actions@example.com"
-          git config --global user.name "GitHub Actions"
+          echo "${{ steps.fetch-posts.outputs.posts }}" >> README.md
           git add README.md
-          git commit -m "Updated README with latest Hashnode blog posts"
+          git commit -m "Update README with latest blog posts"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
