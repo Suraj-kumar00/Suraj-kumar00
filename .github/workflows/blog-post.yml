@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3  # Updated to v3 for compatibility with Node.js 16 and 20
-      - uses: jamesgeorge007/github-activity-readme@v1.0.0  # Correct version
+      - uses: jamesgeorge007/github-activity-readme@master  # Using the master branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
