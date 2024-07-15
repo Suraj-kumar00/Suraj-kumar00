@@ -43,16 +43,16 @@
 ## Latest Blog Posts 👇
 
 <!--START_SECTION:activity-->
-<p align="left"><a href="https://surajk00.hashnode.dev/shellbash-scripting-lets-write-our-first-bash-script" title="Shell/Bash Scripting - Let's write our first Bash Script"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706695521993/03440fa0-f96e-4116-8c14-f249ca9d4f5a.png" alt="Shell/Bash Scripting - Let's write our first Bash Script" width="300px" align="left" /></a><a href="https://surajk00.hashnode.dev/shellbash-scripting-lets-write-our-first-bash-script" title="Shell/Bash Scripting - Let's write our first Bash Script"><strong>Shell/Bash Scripting - Let's write our first Bash Script</strong></a><div><strong>July 9, 2024</strong></div><br/>Pre-Requisites to learn Bash/Shell Scripting:
+1. ❌ Closed PR [#1](https://github.com/mohitjoping/css_by_examples/pull/1) in [mohitjoping/css_by_examples](https://github.com/mohitjoping/css_by_examples)
 
-Linux basics
+2. 💪 Opened PR [#21225](https://github.com/JetBrains/swot/pull/21225) in [JetBrains/swot](https://github.com/JetBrains/swot)
 
-Command line basics
+3. 🎉 Merged PR [#15](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github/pull/15) in [Suraj-kumar00/Getting-started-with-Git-Github](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github)
 
-No programming knowledge required
+4. 💪 Opened PR [#15](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github/pull/15) in [Suraj-kumar00/Getting-started-with-Git-Github](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github)
 
 
-What is a Kernel?
+5. 🎉 Merged PR [#14](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github/pull/14) in [Suraj-kumar00/Getting-started-with-Git-Github](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github)
 Interface between hardware and software
 
 What is a Bash/Shell?
