@@ -43,6 +43,11 @@
 ## Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
+- [Shell/Bash Scripting - Let's write our first Bash Script](https://surajk00.hashnode.dev/shellbash-scripting-lets-write-our-first-bash-script)
+- [My LFX Mentorship Experience](https://surajk00.hashnode.dev/my-lfx-mentorship-experience)
+- [Computer Networking Course: How does the internet work?](https://surajk00.hashnode.dev/computer-networking-course-how-does-the-internet-work)
+- [Linux System Administration](https://surajk00.hashnode.dev/linux-system-administration)
+
 <!-- HASHNODE_BLOG:END -->
 
 
