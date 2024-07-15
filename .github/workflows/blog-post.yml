@@ -1,23 +1,24 @@
-name: Update README
+name: Update Recent Activity
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # Runs every 30 minutes
-  workflow_dispatch:
+    - cron: "30 4 * * 0"  # This will run every Sunday at 10:00 AM IST
 
 jobs:
   build:
-    name: Update this repo's README with recent activity
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    name: Update this repo's README with recent activities
 
     steps:
-      - uses: actions/checkout@v3
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '20'
-      - uses: jamesgeorge007/github-activity-readme@v1.0
+      - uses: actions/checkout@v3  # Updated to v3 for compatibility with Node.js 16 and 20
+      - uses: jamesgeorge007/github-activity-readme@v1.1  # Specifying the latest stable version
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "Updated README with recent activities"
+          MAX_LINES: 4
+          GH_USERNAME: Suraj-kumar00
+          COMMIT_NAME: github-actions[bot]
+          COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          TARGET_FILE: README.md
+          EMPTY_COMMIT_MSG: ":memo: empty commit to keep workflow active after 60 days of no activity"
