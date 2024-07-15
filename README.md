@@ -43,52 +43,7 @@
 ## Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706695521993/03440fa0-f96e-4116-8c14-f249ca9d4f5a.png" alt="Shell/Bash Scripting - Let's write our first Bash Script"></td><td><a href="https://surajk00.hashnode.dev/shellbash-scripting-lets-write-our-first-bash-script"><strong>Shell/Bash Scripting - Let's write our first Bash Script</strong></a><br>Pre-Requisites to learn Bash/Shell Scripting:
 
-Linux basics
-
-Command line basics
-
-No programming knowledge required
-
-
-What is a Kernel?
-Interface between hardware and software
-
-What is a Bash/Shell?
-
-Bash: A command language interpreter used for inte...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1711358788030/c94476af-9de9-48e8-a773-7871e9355d0f.png" alt="My LFX Mentorship Experience"></td><td><a href="https://surajk00.hashnode.dev/my-lfx-mentorship-experience"><strong>My LFX Mentorship Experience</strong></a><br>What is the LFX Mentorship program?
-The Linux Foundation Mentorship Program, commonly known as LFX Mentorship, LFX mentorship is previously known as community bridge. It's a platform designed by the Linux foundation that accelerates the adoption, inn...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695924470719/00c5f7e5-fdf7-4bc8-a273-0e942d38f969.png" alt="Computer Networking Course: How does the internet work?"></td><td><a href="https://surajk00.hashnode.dev/computer-networking-course-how-does-the-internet-work"><strong>Computer Networking Course: How does the internet work?</strong></a><br>How did it all start?
-
-During the Cold War, the United States and the Soviet Union competed to be the best.
-
-In 1957, the Soviet Union surprised everyone by launching Sputnik 1, the first man-made satellite.
-
-To keep up, the U.S. created ARPA (Advanc...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1707742641126/382a52b2-65cf-45ef-9adf-6b9baf90cea3.png" alt="Linux System Administration"></td><td><a href="https://surajk00.hashnode.dev/linux-system-administration"><strong>Linux System Administration</strong></a><br>Linux file editor(vi):
-
-A text editor is a program that enables you to create and manipulate data (text) in a Linux file
-
-There are several standard text editors available on most Linux systems
-
-vi - visual editor
-
-ed - standard line editor
-
-ex - ext...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706640781804/61d542b1-b99f-457f-a43e-6eef795202a1.png" alt="Linux Fundamentals"></td><td><a href="https://surajk00.hashnode.dev/linux-fundamentals"><strong>Linux Fundamentals</strong></a><br>Linux Command Syntax:
-Commands typically have the syntax:
-command option argument or
-ls [OPTION]... [FILE]…
-for example:
-ls -ltr linux.txt
-
-OPTION: Modify the way that a command works
-
-usually consists of a hyphen or dash followed by a single letter
-...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1705775930236/ea8ef59e-ad29-4da5-89b3-f7b931641d98.png" alt="Introduction to Linux"></td><td><a href="https://surajk00.hashnode.dev/introduction-to-linux"><strong>Introduction to Linux</strong></a><br>Let's first understand what is Operating System(O.S):
-
-An OS is system software that manages computer hardware and software resources and provides common services for computer programs.
-
-In a nutshell, An OS is software that acts as a middleman or a ...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 
