@@ -43,7 +43,9 @@
 ## Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706695521993/03440fa0-f96e-4116-8c14-f249ca9d4f5a.png" alt="Shell/Bash Scripting - Let's write our first Bash Script"></td><td><a href="https://surajk00.hashnode.dev/shellbash-scripting-lets-write-our-first-bash-script"><strong>Shell/Bash Scripting - Let's write our first Bash Script</strong></a><br>Pre-Requisites to learn Bash/Shell Scripting:
+<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1721459973703/8e39ab10-8342-46c6-a9c6-8f54ceb2941c.png" alt="Build & Package Manager tools in DevOps"></td><td><a href="https://surajk00.hashnode.dev/build-packages-manager-tools-in-devops"><strong>Build & Package Manager tools in DevOps</strong></a><br>Introduction to Build & Package Manager Tools:
+What are built and package manager tools?
+When developers create an application, it needs to be available to end users. This involves deploying the application on a production server, which requires movi...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706695521993/03440fa0-f96e-4116-8c14-f249ca9d4f5a.png" alt="Shell/Bash Scripting - Let's write our first Bash Script"></td><td><a href="https://surajk00.hashnode.dev/shellbash-scripting-lets-write-our-first-bash-script"><strong>Shell/Bash Scripting - Let's write our first Bash Script</strong></a><br>Pre-Requisites to learn Bash/Shell Scripting:
 
 Linux basics
 
@@ -64,17 +66,7 @@ During the Cold War, the United States and the Soviet Union competed to be the b
 
 In 1957, the Soviet Union surprised everyone by launching Sputnik 1, the first man-made satellite.
 
-To keep up, the U.S. created ARPA (Advanc...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1707742641126/382a52b2-65cf-45ef-9adf-6b9baf90cea3.png" alt="Linux System Administration"></td><td><a href="https://surajk00.hashnode.dev/linux-system-administration"><strong>Linux System Administration</strong></a><br>Linux file editor(vi):
-
-A text editor is a program that enables you to create and manipulate data (text) in a Linux file
-
-There are several standard text editors available on most Linux systems
-
-vi - visual editor
-
-ed - standard line editor
-
-ex - ext...</td></tr></table>
+To keep up, the U.S. created ARPA (Advanc...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 
