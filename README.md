@@ -73,7 +73,7 @@ Bash: A command language interpreter used for inte...</td></tr></table>
 
 <!-- come on let's connect here -->
 
-## <h3 align="left"> Connect with me:</h3>
+## <h3 align=""> Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/surajk_umar01" target="blank">
  <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="surajk_umar01" /></a>
