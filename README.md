@@ -73,6 +73,8 @@ Bash: A command language interpreter used for inte...</td></tr></table>
 
 <!-- come on let's connect here -->
 
+---
+
 ## <h3 align=""> Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/surajk_umar01" target="blank">
