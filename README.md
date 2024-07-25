@@ -62,7 +62,7 @@ What is a Bash/Shell?
 Bash: A command language interpreter used for inte...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
-<p align="center" style="background-color: black; padding: 10px;">  
+<p align="center" style="background-color: black;>  
   <a href="https://surajk00.hashnode.dev/">
     <img src="./Assets/Read-More-Button.png" alt="Read more" width="200/>
   </a>
