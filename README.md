@@ -60,20 +60,15 @@ Interface between hardware and software
 What is a Bash/Shell?
 
 Bash: A command language interpreter used for inte...</td></tr></table>
-
-
-<p align="center" style="background-color: black; padding: 10px;">  
-  <a href="https://blog.avneesh.tech/">
-    <img src="./Assets/Read-More-Button.png" alt="Read more" width="200/>
-  </a>
-</p>
-
 <!-- HASHNODE_BLOG:END -->
 
+<br>
 
 <!-- come on let's connect here -->
 
-## <h3 align="left"> Connect with me:</h3>
+---
+
+## Connect with me
 <p align="left">
 <a href="https://twitter.com/surajk_umar01" target="blank">
  <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="surajk_umar01" /></a>
