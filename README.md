@@ -70,6 +70,7 @@ Bash: A command language interpreter used for inte...</td></tr></table>
 
 <!-- HASHNODE_BLOG:END -->
 
+<br>
 
 <!-- come on let's connect here -->
 
