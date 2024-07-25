@@ -64,7 +64,7 @@ Bash: A command language interpreter used for inte...</td></tr></table>
 
 <p align="center" style="background-color: black; padding: 10px;">  
   <a href="https://blog.avneesh.tech/">
-    <img src="https://user-images.githubusercontent.com/76690419/142756081-13352f92-8482-4a86-acbb-72dc164e8746.png" alt="Read more" width="200"/>
+    <img src="./Assets/Read-More-Button.png" alt="Read more" width="200/>
   </a>
 </p>
 
