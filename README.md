@@ -4,22 +4,24 @@
 
 <!-- This is my name -->
 
-<h1 align="center">Hi 👋, I'm Suraj</h1>
+<!--<h1 align="center">Hi 👋, I'm Suraj</h1>-->
 
 <!-- This is Typing SVG -->
 
-<p align="center">
+<!--<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00D9F7&center=true&vCenter=true&width=435&lines=DevOps+Guy;Open-Source;Development;"></a>
 </p>
+-->
 
 <!-- Visitors counter -->
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=Suraj-kumar00&label=Profile%20views&color=0e75b6&style=flat" alt="Suraj-kumar00" /> </p>
 
 <!-- This is about me -->
-  <table>
+<!--  <table>
    <tr>
     <td>
+    -->
 
 ## About me 
 - ♾️ DevOps Guy
@@ -29,12 +31,13 @@
 - 📝 I'm a Technical Writer at [@hashnode](https://surajk00.hashnode.dev/)
 - 📫 How to reach me **suraj.ukumar.p@gmail.com**
 </td>
-<td>
+<!--<td>
   <a href="https://app.daily.dev/surajkumar00"><img src="https://api.daily.dev/devcards/v2/4E1RDJyIvsiHn4ej7JYMu.png?r=g72&type=default" width="356" alt="Suraj's Dev Card"/></a>
 <!-- <a align="center"  href="https://app.daily.dev/Surajkumar00"><img src="https://api.daily.dev/devcards/3ffdf10c31754b0b8990e50630821fca.png?r=57l" width="400" alt="Suraj's Dev Card"/></a>
-   </td> -->
+   </td> 
   </tr>
  </table>
+ -->
 
 <br>
 
@@ -119,7 +122,7 @@ Bash: A command language interpreter used for inte...</td></tr></table>
 <br>
 
 
-## Operating Systems </h3>  
+<!--## Operating Systems </h3>  
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
@@ -130,7 +133,7 @@ Bash: A command language interpreter used for inte...</td></tr></table>
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 
 ---
-
+-->
 
 ![Suraj-kumar00's Stats](https://github-readme-stats.vercel.app/api?username=Suraj-kumar00&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)![Suraj-kumar00's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suraj-kumar00&theme=tokyonight&hide_border=true)
 ![Suraj-kumar00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-kumar00&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
@@ -162,11 +165,11 @@ Bash: A command language interpreter used for inte...</td></tr></table>
 
 
 
-<!--Hacktoberfest 2023 Badges-->
+<!--Hacktoberfest 2023 Badges
 
 ## Hacktoberfest 2023 Badges
 
-[![Hacktoberfest 2023 Badges](https://holopin.me/surajkumar00)](https://holopin.io/@surajkumar00)
+[![Hacktoberfest 2023 Badges](https://holopin.me/surajkumar00)](https://holopin.io/@surajkumar00)-->
 
 <!--Hacktoberfest 2023 Badges ends here-->
 
