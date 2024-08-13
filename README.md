@@ -148,28 +148,57 @@ When developers create an application, it needs to be available to end users. Th
 ---
 -->
 
-![Suraj-kumar00's Stats](https://github-readme-stats.vercel.app/api?username=Suraj-kumar00&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)![Suraj-kumar00's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suraj-kumar00&theme=tokyonight&hide_border=true)
-![Suraj-kumar00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-kumar00&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+ <hr>
+ 
+
+<h2 align="center">My GitHub Stats</h2>
+  </div>
+  <div align="center">
+    <table>
+      <tr>
+        <td width="45%">
+          <a href="http://www.github.com/Suraj-kumar00"><img src="https://github-readme-stats.vercel.app/api?username=Suraj-kumar00&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" alt="Suraj's GitHub stats" /></a> 
+        </td>
+        <td width="45%">
+          <a href="http://www.github.com/Suraj-kumar00"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj-kumar00&theme=tokyonight&hide_border=true" /></a>
+    </table>
+      </div>
+      <a href="http://www.github.com/Suraj-kumar00"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj-kumar00&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+    </td>
+  </tr>
+
+   </table>
+      </div>
+      <a href="http://www.github.com/Suraj-kumar00"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-kumar00&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Languages" /></a>
+    </td>
+  </tr>
+   </table>
+      </div>
+      <a href="http://www.github.com/Suraj-kumar00"><img src="https://github.com/yash02k3/GITM_TechFest/blob/yash/contributer/assets/logo/DevsDialogue%20Logo.png" alt="DevsDialogue" width="200px" height="170px" alt="GitHub Commits Graph" /></a>
+    </td>
+  </tr>
+
+</div>
+<hr>
 
 
 
 
 
+<!--This section is for the DevsDailogue community Discord joining page-->
 
-
-<!--This section is for DevsDailogue community Discord joining page-->
-
-## Join Our Tech Community
+<!--## 
 
 <p align="left">
   <a href="https://discord.com/invite/xmM3cQUSyF">
-    <img src="https://github.com/yash02k3/GITM_TechFest/blob/yash/contributer/assets/logo/DevsDialogue%20Logo.png" alt="DevsDialogue" width="200px" height="200px">
+    <img src="">
     <br>
     DevsDialogue
   </a>
 </p>
 
 
+-->
 
 
 
