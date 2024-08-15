@@ -174,7 +174,7 @@ When developers create an application, it needs to be available to end users. Th
   </tr>
    </table>
       </div>
-      <a href="http://www.github.com/Suraj-kumar00"><img src="https://github.com/yash02k3/GITM_TechFest/blob/yash/contributer/assets/logo/DevsDialogue%20Logo.png" alt="DevsDialogue" width="200px" height="170px" alt="GitHub Commits Graph" /></a>
+      <a href="https://discord.com/invite/xmM3cQUSyF"><img src="https://github.com/yash02k3/GITM_TechFest/blob/yash/contributer/assets/logo/DevsDialogue%20Logo.png" alt="DevsDialogue" width="200px" height="170px" alt="GitHub Commits Graph" /></a>
     </td>
   </tr>
 
