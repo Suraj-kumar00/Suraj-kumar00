@@ -16,7 +16,7 @@ jobs:
       - name: 'Hashnode Blog Action'
         uses: 'Sachin-chaurasiya/hashnode-blog-action@main'
         with:
-          HASHNODE_PUBLICATION_NAME: 'surajk00.hashnode.dev/'
+          HASHNODE_PUBLICATION_NAME: 'https://blog.devsuraj.me/'
           POST_COUNT: 2
           FORMAT: 'Stacked'
         env:
