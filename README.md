@@ -46,10 +46,7 @@
 ## Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1727507939469/1e20738b-5642-45dd-88ac-f8020d24f28f.png" alt="Everything You Need to Know About Hacktoberfest 2024"></td><td><a href="https://blog.devsuraj.me/everything-you-need-to-know-about-hacktoberfest-2024"><strong>Everything You Need to Know About Hacktoberfest 2024</strong></a><br>Introduction to Hacktoberfest
-Hacktoberfest is a month-long(Oct 1 - Oct 31) celebration of all things open-source yearly.
-Why should you participate?
-Participating helps you learn new skills, collaborate with others, improve your coding abilities, an...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1722795727932/87a45a67-d9e8-42f5-81a0-d56c8ded3cf3.png" alt="Python For DevOps: Part 1"></td><td><a href="https://blog.devsuraj.me/python-for-devops-part-1"><strong>Python For DevOps: Part 1</strong></a><br>Introduction
+<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1722795727932/87a45a67-d9e8-42f5-81a0-d56c8ded3cf3.png" alt="Python For DevOps: Part 1"></td><td><a href="https://blog.devsuraj.me/python-for-devops-part-1"><strong>Python For DevOps: Part 1</strong></a><br>Introduction
 Python is a programming language which is:
 
 Easy to learn
@@ -76,7 +73,9 @@ you are not limited to language specifics
 
 What Python is used for:
 
-Web Developme...</td></tr></table>
+Web Developme...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1721459973703/8e39ab10-8342-46c6-a9c6-8f54ceb2941c.png" alt="Build & Package Manager tools in DevOps"></td><td><a href="https://blog.devsuraj.me/build-packages-manager-tools-in-devops"><strong>Build & Package Manager tools in DevOps</strong></a><br>Introduction to Build & Package Manager Tools:
+What are built and package manager tools?
+When developers create an application, it needs to be available to end users. This involves deploying the application on a production server, which requires movi...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 <br>
