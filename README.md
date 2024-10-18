@@ -39,15 +39,31 @@ Hacktoberfest is a month-long(Oct 1 - Oct 31) celebration of all things open-sou
 Why should you participate?
 Participating helps you learn new skills, collaborate with others, improve your coding abilities, an...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1722795727932/87a45a67-d9e8-42f5-81a0-d56c8ded3cf3.png" alt="Python For DevOps: Part 1"></td><td><a href="https://blog.devsuraj.me/python-for-devops-part-1"><strong>Python For DevOps: Part 1</strong></a><br>Introduction
 Python is a programming language which is:
+
 Easy to learn
+
 simple syntax
+
 easy to setup
+
+
+
 Large ecosystem
+
 many libraries
+
 large community
+
+
+
 Flexible
+
 you are not limited to language specifics
+
+
+
 What Python is used for:
+
 Web Developme...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
