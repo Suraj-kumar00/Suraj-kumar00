@@ -13,7 +13,7 @@ I'm a Full-Stack Developer from **India** with a passion for **DevOps** ♾️ a
 
 ## 🛠️ Technologies & Tools
 
-- **Programming/Scripting Languages worked with:** Python, JavaScript
+- **Programming/Scripting Languages worked with:** Python, JavaScript, Bash Scripting, Java
 - **Frontend Development:** React.js, Next.js
 - **Backend Development:** Node.js, Express 
 - **Databases:** Proficient in PostgreSQL
