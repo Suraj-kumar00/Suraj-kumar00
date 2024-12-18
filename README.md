@@ -68,7 +68,7 @@ Web Developme...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 <br>
----
+
 <br>
 
 <h2 align="center">My GitHub Stats</h2>
