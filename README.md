@@ -7,7 +7,7 @@
 
 Hi There! I'm Suraj 👋🏻
 
-I'm a Full-Stack Developer from **India** with a passion for **DevOps** ♾️ and **open-source** 🧑🏻‍💻. I'm always striving for the best **code quality** and seamless workflows. Currently, I'm exploring **AI/ML** and **blockchain** technologies. Alongside coding, I'm a **Technical Writer** at [Hashnode](https://surajk00.hashnode.dev/) 📝. In my free time, I love traveling, reading books.
+I'm a Full-Stack Developer from **India** with a passion for **DevOps** ♾️ and **open-source** 🧑🏻‍💻. I'm always striving for the best **code quality** and seamless workflows. Currently, I'm exploring **AI/ML** and **blockchain** technologies. Alongside coding, I write **Technical blogs** at [Hashnode](https://surajk00.hashnode.dev/), [Dev.to](https://dev.to/surajkumar00) & [Medium](https://medium.com/@Suraj-kumar00)📝. In my free time, I love traveling, reading books.
 
 📫 How to reach me [suraj.ukumar.p@gmail.com](mailto:suraj.ukumar.p@gmail.com)
 
