@@ -17,7 +17,7 @@ I'm a Developer from **India** with a passion for **DevOps** ♾️ and **open-s
 - **Frontend Development:** React.js, Next.js
 - **Backend Development:** Node.js, Express 
 - **Databases:** Proficient in PostgreSQL
-- **DevOps Tools:** Docker, Kubernetes, AWS, CI/CD pipelines, Terraform, Nginx, Prometheus/Grafana, Build tools, YAML
+- **DevOps Tools:** Docker, Kubernetes, AWS, CI/CD pipelines,Jenkins, GitLab, Terraform, Ansible, Nginx, Prometheus/Grafana, Build tools, YAML
 - **Version Control:** Git and GitHub
   
 ## 🌱 Current Learning Goals
