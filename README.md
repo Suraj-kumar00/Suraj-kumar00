@@ -34,11 +34,37 @@ I'm a Developer from **India** with a passion for **DevOps** ♾️ and **open-s
 ## Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1729364533483/914a0d43-2d84-4977-b55d-6c39095aa233.png" alt="Cloud Computing 101"></td><td><a href="https://blog.devsuraj.me/cloud-computing-101"><strong>Cloud Computing 101</strong></a><br>Introduction to Cloud Computing
-Imagine renting a fully equipped kitchen instead of building one from scratch. Cloud computing works similarly: instead of owning physical servers or data centers, you "rent" computing power, storage, and services over...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1727507939469/1e20738b-5642-45dd-88ac-f8020d24f28f.png" alt="Everything You Need to Know About Hacktoberfest 2024"></td><td><a href="https://blog.devsuraj.me/everything-you-need-to-know-about-hacktoberfest-2024"><strong>Everything You Need to Know About Hacktoberfest 2024</strong></a><br>Introduction to Hacktoberfest
+<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1727507939469/1e20738b-5642-45dd-88ac-f8020d24f28f.png" alt="Everything You Need to Know About Hacktoberfest 2024"></td><td><a href="https://blog.devsuraj.me/everything-you-need-to-know-about-hacktoberfest-2024"><strong>Everything You Need to Know About Hacktoberfest 2024</strong></a><br>Introduction to Hacktoberfest
 Hacktoberfest is a month-long(Oct 1 - Oct 31) celebration of all things open-source yearly.
 Why should you participate?
-Participating helps you learn new skills, collaborate with others, improve your coding abilities, an...</td></tr></table>
+Participating helps you learn new skills, collaborate with others, improve your coding abilities, an...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1722795727932/87a45a67-d9e8-42f5-81a0-d56c8ded3cf3.png" alt="Python For DevOps: Part 1"></td><td><a href="https://blog.devsuraj.me/python-for-devops-part-1"><strong>Python For DevOps: Part 1</strong></a><br>Introduction
+Python is a programming language which is:
+
+Easy to learn
+
+simple syntax
+
+easy to setup
+
+
+
+Large ecosystem
+
+many libraries
+
+large community
+
+
+
+Flexible
+
+you are not limited to language specifics
+
+
+
+What Python is used for:
+
+Web Developme...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 <br>
