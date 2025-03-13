@@ -34,11 +34,9 @@ I'm a Developer from **India** with a passion for **DevOps** ♾️ and **open-s
 ## Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1729364533483/914a0d43-2d84-4977-b55d-6c39095aa233.png" alt="Cloud Computing 101"></td><td><a href="https://blog.devsuraj.me/cloud-computing-101"><strong>Cloud Computing 101</strong></a><br>Introduction to Cloud Computing
-Imagine renting a fully equipped kitchen instead of building one from scratch. Cloud computing works similarly: instead of owning physical servers or data centers, you "rent" computing power, storage, and services over...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1727507939469/1e20738b-5642-45dd-88ac-f8020d24f28f.png" alt="Everything You Need to Know About Hacktoberfest 2024"></td><td><a href="https://blog.devsuraj.me/everything-you-need-to-know-about-hacktoberfest-2024"><strong>Everything You Need to Know About Hacktoberfest 2024</strong></a><br>Introduction to Hacktoberfest
-Hacktoberfest is a month-long(Oct 1 - Oct 31) celebration of all things open-source yearly.
-Why should you participate?
-Participating helps you learn new skills, collaborate with others, improve your coding abilities, an...</td></tr></table>
+<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1741514885928/9ff1972b-8f27-45a1-aefd-e91bd99d382a.png" alt="You need to learn AWS right now!"></td><td><a href="https://blog.devsuraj.me/you-need-to-learn-aws-right-now"><strong>You need to learn AWS right now!</strong></a><br>Introduction
+Amazon Web Services (AWS) is a cloud computing platform that offers a wide range of services such as computing power, storage, databases, and networking. If you're a beginner I’m here to help you with my experience of learning and buildi...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1729364533483/914a0d43-2d84-4977-b55d-6c39095aa233.png" alt="Cloud Computing 101"></td><td><a href="https://blog.devsuraj.me/cloud-computing-101"><strong>Cloud Computing 101</strong></a><br>Introduction to Cloud Computing
+Imagine renting a fully equipped kitchen instead of building one from scratch. Cloud computing works similarly: instead of owning physical servers or data centers, you "rent" computing power, storage, and services over...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 <br>
