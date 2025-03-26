@@ -34,12 +34,13 @@ I'm a Developer from **India** with a passion for **DevOps** ♾️ and **open-s
 ## Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1741690271119/3cff04ce-bed2-4f4c-8e44-1f656cc57e12.png" alt="Building a Secure, Fast & Scalable Static Website on AWS - MindfulCloud"></td><td><a href="https://blog.devsuraj.me/building-a-secure-fast-and-scalable-static-website-on-aws-mindfulcloud"><strong>Building a Secure, Fast & Scalable Static Website on AWS - MindfulCloud</strong></a><br>Introduction
+<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1742816527898/40144e4c-25a1-4eec-b5e0-e0e135d41f66.png" alt="You Need to Learn Docker Right Now! (Part 1)"></td><td><a href="https://blog.devsuraj.me/you-need-to-learn-docker-right-now-part-1"><strong>You Need to Learn Docker Right Now! (Part 1)</strong></a><br>Let’s Understand the Problem
+
+Let's say a developer is working on a project and has set up all the required dependencies and configurations. Everything works fine. However, when a team collaborates on the same project across different operating syste...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1741690271119/3cff04ce-bed2-4f4c-8e44-1f656cc57e12.png" alt="Building a Secure, Fast & Scalable Static Website on AWS - MindfulCloud"></td><td><a href="https://blog.devsuraj.me/building-a-secure-fast-and-scalable-static-website-on-aws-mindfulcloud"><strong>Building a Secure, Fast & Scalable Static Website on AWS - MindfulCloud</strong></a><br>Introduction
 The Problem It Solves
 Anyone can host a static website on AWS, but that’s not enough in today's landscape. The real challenge is building a secure, fast, and scalable website that efficiently uses AWS resources.
 
-Security Risks: Hackers ...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1741514885928/9ff1972b-8f27-45a1-aefd-e91bd99d382a.png" alt="You need to learn AWS right now!"></td><td><a href="https://blog.devsuraj.me/you-need-to-learn-aws-right-now"><strong>You need to learn AWS right now!</strong></a><br>Introduction
-Amazon Web Services (AWS) is a cloud computing platform that offers a wide range of services such as computing power, storage, databases, and networking. If you're a beginner I’m here to help you with my experience of learning and buildi...</td></tr></table>
+Security Risks: Hackers ...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 <br>
