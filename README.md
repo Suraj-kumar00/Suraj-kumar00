@@ -34,13 +34,19 @@ I'm a Developer from **India** with a passion for **DevOps** ♾️ and **open-s
 ## Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1742816527898/40144e4c-25a1-4eec-b5e0-e0e135d41f66.png" alt="You Need to Learn Docker Right Now! (Part 1)"></td><td><a href="https://blog.devsuraj.me/you-need-to-learn-docker-right-now-part-1"><strong>You Need to Learn Docker Right Now! (Part 1)</strong></a><br>Let’s Understand the Problem
+<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1721474244365/42cfae62-e4fb-40ee-aec8-23066053fc65.png" alt="The Complete YAML Course for DevOps"></td><td><a href="https://blog.devsuraj.me/the-complete-yaml-course-for-devops"><strong>The Complete YAML Course for DevOps</strong></a><br>What is YAML?
+YAML is a human-friendly data serialization language that's used across all programming languages.
 
-Let's say a developer is working on a project and has set up all the required dependencies and configurations. Everything works fine. However, when a team collaborates on the same project across different operating syste...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1741690271119/3cff04ce-bed2-4f4c-8e44-1f656cc57e12.png" alt="Building a Secure, Fast & Scalable Static Website on AWS - MindfulCloud"></td><td><a href="https://blog.devsuraj.me/building-a-secure-fast-and-scalable-static-website-on-aws-mindfulcloud"><strong>Building a Secure, Fast & Scalable Static Website on AWS - MindfulCloud</strong></a><br>Introduction
-The Problem It Solves
-Anyone can host a static website on AWS, but that’s not enough in today's landscape. The real challenge is building a secure, fast, and scalable website that efficiently uses AWS resources.
+It’s not a programming language, it’s a data format.
 
-Security Risks: Hackers ...</td></tr></table>
+It’s similar to JSON and XML.
+
+You can only store data, not run commands.
+
+
+YAML F...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1742816527898/40144e4c-25a1-4eec-b5e0-e0e135d41f66.png" alt="You Need to Learn Docker Right Now! (Part 1)"></td><td><a href="https://blog.devsuraj.me/you-need-to-learn-docker-right-now-part-1"><strong>You Need to Learn Docker Right Now! (Part 1)</strong></a><br>Let’s Understand the Problem
+
+Let's say a developer is working on a project and has set up all the required dependencies and configurations. Everything works fine. However, when a team collaborates on the same project across different operating syste...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 <br>
