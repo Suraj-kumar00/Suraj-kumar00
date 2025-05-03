@@ -34,7 +34,13 @@ I'm a Developer from **India** with a passion for **DevOps** ♾️ and **open-s
 ## Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1721474244365/42cfae62-e4fb-40ee-aec8-23066053fc65.png" alt="The Complete YAML Course for DevOps"></td><td><a href="https://blog.devsuraj.me/the-complete-yaml-course-for-devops"><strong>The Complete YAML Course for DevOps</strong></a><br>What is YAML?
+<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1746208572384/6a1eab76-7781-4a3b-9dfa-d2df2e69085f.jpeg" alt="Deploying SpringBoot Application on AWS EC2: A Comprehensive Guide"></td><td><a href="https://blog.devsuraj.me/deploying-springboot-application-on-aws-ec2-a-comprehensive-guide"><strong>Deploying SpringBoot Application on AWS EC2: A Comprehensive Guide</strong></a><br>Introduction
+This guide outlines the process of deploying a SpringBoot application on AWS EC2 with GitHub Actions for automated deployment. The setup includes Docker containers and proper security configurations.
+Prerequisites
+
+AWS Account
+
+GitHub Re...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1721474244365/42cfae62-e4fb-40ee-aec8-23066053fc65.png" alt="The Complete YAML Course for DevOps"></td><td><a href="https://blog.devsuraj.me/the-complete-yaml-course-for-devops"><strong>The Complete YAML Course for DevOps</strong></a><br>What is YAML?
 YAML is a human-friendly data serialization language that's used across all programming languages.
 
 It’s not a programming language, it’s a data format.
@@ -44,9 +50,7 @@ It’s similar to JSON and XML.
 You can only store data, not run commands.
 
 
-YAML F...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1742816527898/40144e4c-25a1-4eec-b5e0-e0e135d41f66.png" alt="You Need to Learn Docker Right Now! (Part 1)"></td><td><a href="https://blog.devsuraj.me/you-need-to-learn-docker-right-now-part-1"><strong>You Need to Learn Docker Right Now! (Part 1)</strong></a><br>Let’s Understand the Problem
-
-Let's say a developer is working on a project and has set up all the required dependencies and configurations. Everything works fine. However, when a team collaborates on the same project across different operating syste...</td></tr></table>
+YAML F...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 <br>
