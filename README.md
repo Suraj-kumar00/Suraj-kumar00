@@ -34,23 +34,23 @@ I'm a Developer from **India** with a passion for **DevOps** ♾️ and **open-s
 ## Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1746208572384/6a1eab76-7781-4a3b-9dfa-d2df2e69085f.jpeg" alt="Deploying SpringBoot Application on AWS EC2: A Comprehensive Guide"></td><td><a href="https://blog.devsuraj.me/deploying-springboot-application-on-aws-ec2-a-comprehensive-guide"><strong>Deploying SpringBoot Application on AWS EC2: A Comprehensive Guide</strong></a><br>Introduction
+<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1746213061803/aff531d7-34f9-4775-b805-8ccd2337e5d8.png" alt="Automating The Deployment Spring Boot Deployment with AWS CodePipeline and Elastic Beanstalk"></td><td><a href="https://blog.devsuraj.me/automating-the-deployment-spring-boot-deployment-with-aws-codepipeline-and-elastic-beanstalk"><strong>Automating The Deployment Spring Boot Deployment with AWS CodePipeline and Elastic Beanstalk</strong></a><br>In this comprehensive guide, I’ll walk through setting up a complete CI/CD pipeline using AWS CodePipeline to deploy a Spring Boot application to Elastic Beanstalk. Here's what we'll cover:
+Tools Used
+
+
+
+
+ToolRole
+
+
+
+CodeCommitGit repository for sour...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1746208572384/6a1eab76-7781-4a3b-9dfa-d2df2e69085f.jpeg" alt="Deploying SpringBoot Application on AWS EC2: A Comprehensive Guide"></td><td><a href="https://blog.devsuraj.me/deploying-springboot-application-on-aws-ec2-a-comprehensive-guide"><strong>Deploying SpringBoot Application on AWS EC2: A Comprehensive Guide</strong></a><br>Introduction
 This guide outlines the process of deploying a SpringBoot application on AWS EC2 with GitHub Actions for automated deployment. The setup includes Docker containers and proper security configurations.
 Prerequisites
 
 AWS Account
 
-GitHub Re...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1721474244365/42cfae62-e4fb-40ee-aec8-23066053fc65.png" alt="The Complete YAML Course for DevOps"></td><td><a href="https://blog.devsuraj.me/the-complete-yaml-course-for-devops"><strong>The Complete YAML Course for DevOps</strong></a><br>What is YAML?
-YAML is a human-friendly data serialization language that's used across all programming languages.
-
-It’s not a programming language, it’s a data format.
-
-It’s similar to JSON and XML.
-
-You can only store data, not run commands.
-
-
-YAML F...</td></tr></table>
+GitHub Re...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 <br>
