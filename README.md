@@ -34,8 +34,7 @@ I'm an aspiring DevOps Engineer ♾️ and open-source contributor 🧑🏻‍�
 ## Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1747894413623/42703d4f-b25f-49bb-8e8d-4231f135c8b8.jpeg" alt="You Need To Learn Docker Right Now : Part 2"></td><td><a href="https://blog.devsuraj.me/you-need-to-learn-docker-right-now-part-2"><strong>You Need To Learn Docker Right Now : Part 2</strong></a><br>Introduction
-Docker is a powerful containerization platform that streamlines application development, deployment, and scaling of containerized applications. In this blog I’ll covers important Docker concepts like networking, Volumes, writing compose ...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1746213061803/aff531d7-34f9-4775-b805-8ccd2337e5d8.png" alt="Automating The Deployment Spring Boot Deployment with AWS CodePipeline and Elastic Beanstalk"></td><td><a href="https://blog.devsuraj.me/automating-the-deployment-spring-boot-deployment-with-aws-codepipeline-and-elastic-beanstalk"><strong>Automating The Deployment Spring Boot Deployment with AWS CodePipeline and Elastic Beanstalk</strong></a><br>In this comprehensive guide, I’ll walk through setting up a complete CI/CD pipeline using AWS CodePipeline to deploy a Spring Boot application to Elastic Beanstalk. Here's what we'll cover:
+<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1746213061803/aff531d7-34f9-4775-b805-8ccd2337e5d8.png" alt="Automating The Deployment Spring Boot Deployment with AWS CodePipeline and Elastic Beanstalk"></td><td><a href="https://blog.devsuraj.me/automating-the-deployment-spring-boot-deployment-with-aws-codepipeline-and-elastic-beanstalk"><strong>Automating The Deployment Spring Boot Deployment with AWS CodePipeline and Elastic Beanstalk</strong></a><br>In this comprehensive guide, I’ll walk through setting up a complete CI/CD pipeline using AWS CodePipeline to deploy a Spring Boot application to Elastic Beanstalk. Here's what we'll cover:
 Tools Used
 
 
@@ -45,7 +44,13 @@ ToolRole
 
 
 
-CodeCommitGit repository for sour...</td></tr></table>
+CodeCommitGit repository for sour...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1746208572384/6a1eab76-7781-4a3b-9dfa-d2df2e69085f.jpeg" alt="Deploying SpringBoot Application on AWS EC2: A Comprehensive Guide"></td><td><a href="https://blog.devsuraj.me/deploying-springboot-application-on-aws-ec2-a-comprehensive-guide"><strong>Deploying SpringBoot Application on AWS EC2: A Comprehensive Guide</strong></a><br>Introduction
+This guide outlines the process of deploying a SpringBoot application on AWS EC2 with GitHub Actions for automated deployment. The setup includes Docker containers and proper security configurations.
+Prerequisites
+
+AWS Account
+
+GitHub Re...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 <br>
