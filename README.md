@@ -34,7 +34,7 @@ I'm an aspiring DevOps Engineer ♾️ and open-source contributor 🧑🏻‍�
 ## Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1751178893977/43de7ea9-35c4-4eb4-9a16-1e3ec152c98a.png" alt="Git Cherry-Pick Saved My Messed-Up Branch — Here’s How You Can Too!"></td><td><a href="https://blog.devsuraj.me/git-cherry-pick-saved-my-messed-up-branch-heres-how-you-can-too"><strong>Git Cherry-Pick Saved My Messed-Up Branch — Here’s How You Can Too!</strong></a><br>Introduction
+<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1751306636299/462802b2-aebe-4142-8fe1-1bdbd1afd0d9.png" alt="Git Cherry-Pick Saved My Messed-Up Branch — Here’s How You Can Too!"></td><td><a href="https://blog.devsuraj.me/git-cherry-pick-saved-my-messed-up-branch-heres-how-you-can-too"><strong>Git Cherry-Pick Saved My Messed-Up Branch — Here’s How You Can Too!</strong></a><br>Introduction
 A practical, real-world guide to understanding and applying Git cherry-pick with actual developer mistakes and fixes.
 
 What is git cherry-pick?
