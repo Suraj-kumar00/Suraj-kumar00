@@ -34,11 +34,12 @@ I'm a DevOps Engineer ♾️ and open-source contributor 🧑🏻‍💻. I'm al
 ## Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1751306636299/462802b2-aebe-4142-8fe1-1bdbd1afd0d9.png" alt="Git Cherry-Pick Saved My Messed-Up Branch — Here’s How You Can Too!"></td><td><a href="https://blog.devsuraj.me/git-cherry-pick-saved-my-messed-up-branch-heres-how-you-can-too"><strong>Git Cherry-Pick Saved My Messed-Up Branch — Here’s How You Can Too!</strong></a><br>Introduction
+<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1755849009468/b84d5dc8-8e40-476d-aa65-f730dcabd813.png" alt="Why NGINX Still Powers the Modern Web in 2025: Part 1"></td><td><a href="https://blog.devsuraj.me/why-nginx-still-powers-the-modern-web-in-2025-part-1"><strong>Why NGINX Still Powers the Modern Web in 2025: Part 1</strong></a><br>Introduction
+NGINX has revolutionized modern web infrastructure, becoming the backbone of high-performance applications worldwide. In this part 1 you'll learn about NGINX fundamentals configurations, theoretical knowledge with real-time scenario exam...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1751306636299/462802b2-aebe-4142-8fe1-1bdbd1afd0d9.png" alt="Git Cherry-Pick Saved My Messed-Up Branch — Here’s How You Can Too!"></td><td><a href="https://blog.devsuraj.me/git-cherry-pick-saved-my-messed-up-branch-heres-how-you-can-too"><strong>Git Cherry-Pick Saved My Messed-Up Branch — Here’s How You Can Too!</strong></a><br>Introduction
 A practical, real-world guide to understanding and applying Git cherry-pick with actual developer mistakes and fixes.
 
 What is git cherry-pick?
-git cherry-pick lets you selectively apply commits from one branch to another — like copying ...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1750145148128/e722ac43-2b94-4f4d-a7d7-68f6b9944a2d.png" alt="Managing Multiple GitHub/Git Accounts on One Machine (Personal + Work)"></td><td><a href="https://blog.devsuraj.me/managing-multiple-githubgit-accounts-on-one-machine-personal-work"><strong>Managing Multiple GitHub/Git Accounts on One Machine (Personal + Work)</strong></a><br>As developers and DevOps engineers, it's common to contribute to both personal and professional projects. However, using two GitHub accounts on a single machine can lead to identity conflicts, unverified commits, or accidentally pushing to the wrong ...</td></tr></table>
+git cherry-pick lets you selectively apply commits from one branch to another — like copying ...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 <br>
