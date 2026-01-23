@@ -22,11 +22,10 @@ I'm a DevOps Engineer ♾️ and open-source contributor 🧑🏻‍💻. I'm al
   
 ## 🌱 Current Learning Goals
 
-- Get better at Development
-- Learn Golang
 - Master DevOps
-- Learn React Native, Make Projects
-- Solve DSA Questions
+- Contribute to CNCF Projects
+- Learn Golang
+- Help poeople to get into tech!
 
 
 <!-- Read the blogs here on my hashnode profile -->
