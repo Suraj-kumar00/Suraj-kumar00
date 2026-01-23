@@ -20,7 +20,7 @@ I'm a DevOps Engineer ♾️ and open-source contributor 🧑🏻‍💻. I'm al
 - **DevOps Tools:** Docker, Kubernetes, AWS, CI/CD pipelines,Jenkins, GitLab, Helm, ArgoCD, GitOps, Terraform, Ansible, Nginx, Prometheus/Grafana, Build tools, YAML
 - **Version Control:** Git and GitHub
   
-## 🌱 Current Learning Goals
+## 🌱 Current Goals
 
 - Master DevOps
 - Contribute to CNCF Projects
