@@ -22,7 +22,8 @@ I'm a DevOps Engineer ♾️ and open-source contributor 🧑🏻‍💻. I'm al
   
 ## 🌱 Current Goals
 
-- Master DevOps
+- Get better at DevOps & FinOps
+- Learn MLOps & AIOps
 - Contribute to CNCF Projects
 - Learn Golang
 - Help poeople to get into tech!
