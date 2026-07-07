@@ -16,12 +16,11 @@ jobs:
       - name: 'Hashnode Blog Action'
         uses: 'Sachin-chaurasiya/hashnode-blog-action@main'
         with:
-          HASHNODE_PUBLICATION_NAME: 'blog.surajdev.tech'
+          HASHNODE_PUBLICATION_NAME: 'surajk00.hashnode.dev'
           POST_COUNT: 2
           FORMAT: 'Stacked'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
 
 
 
