@@ -34,10 +34,8 @@ I'm a DevOps Engineer ♾️ and open-source contributor 🧑🏻‍💻. I'm al
 ## Latest Blog Posts 👇
 
 <!-- BLOG-POST-LIST:START -->
-<table><tr><td><img src="https://cdn.hashnode.com/uploads/covers/63f0aa570e63a77a616fd5ab/cfd87e50-1a93-4eb8-a5ec-c209f501dc65.png" alt="How I Run a Full AI Coding Stack Locally Zero Cost, Zero Cloud, Zero Compromise"></td><td><a href="https://surajk00.hashnode.dev/how-i-run-a-full-ai-coding-stack-locally-zero-cost-zero-cloud-zero-compromise"><strong>How I Run a Full AI Coding Stack Locally Zero Cost, Zero Cloud, Zero Compromise</strong></a><br>Before We Start, What You'll Actually Get From This
-This is not a "look what AI can do" post.
-This is a documented, real-world setup guide written by a DevOps engineer who got tired of sending infrast</td></tr><tr><td><img src="https://cdn.hashnode.com/uploads/covers/63f0aa570e63a77a616fd5ab/b7f0b56e-007a-4336-90e9-5842f06de4c5.png" alt="Antigravity Login Issue on MacBook & How I Finally Fixed It (After Hours of Trying)"></td><td><a href="https://surajk00.hashnode.dev/antigravity-login-issue-on-macbook-how-i-finally-fixed-it-after-hours-of-trying"><strong>Antigravity Login Issue on MacBook & How I Finally Fixed It (After Hours of Trying)</strong></a><br>The Problem
-If you're reading this, you're probably stuck in the same nightmare I was: Antigravity shows "Authentication Required Please sign in" no matter what you do. You've reinstalled it. You've c</td></tr></table>
+- [How to Become an AWS Community Builder &lpar;From Someone Inside the Program&rpar;](https://blog.surajdev.tech/aws-community-builder-guide)
+- [How I Run a Full AI Coding Stack Locally Zero Cost, Zero Cloud, Zero Compromise](https://blog.surajdev.tech/how-i-run-a-full-ai-coding-stack-locally-zero-cost-zero-cloud-zero-compromise)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
