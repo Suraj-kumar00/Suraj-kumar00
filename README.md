@@ -33,10 +33,7 @@ I'm a DevOps Engineer ♾️ and open-source contributor 🧑🏻‍💻. I'm al
 
 ## Latest Blog Posts 👇
 
-<!-- BLOG-POST-LIST:START -->
-- [How to Become an AWS Community Builder &lpar;From Someone Inside the Program&rpar;](https://blog.surajdev.tech/aws-community-builder-guide)
-- [How I Run a Full AI Coding Stack Locally Zero Cost, Zero Cloud, Zero Compromise](https://blog.surajdev.tech/how-i-run-a-full-ai-coding-stack-locally-zero-cost-zero-cloud-zero-compromise)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><table><tr><td width="200"><a href="https://blog.surajdev.tech/aws-community-builder-guide"><img src="https://cdn.hashnode.com/uploads/covers/63f0aa570e63a77a616fd5ab/faa0d044-f136-4a0e-aee7-967b43541e1c.png" width="200"/></a></td><td><a href="https://blog.surajdev.tech/aws-community-builder-guide"><b>How to Become an AWS Community Builder &lpar;From Someone Inside the Program&rpar;</b></a><br/>Jul 5, 2026</td></tr></table><table><tr><td width="200"><a href="https://blog.surajdev.tech/how-i-run-a-full-ai-coding-stack-locally-zero-cost-zero-cloud-zero-compromise"><img src="https://cdn.hashnode.com/uploads/covers/63f0aa570e63a77a616fd5ab/cfd87e50-1a93-4eb8-a5ec-c209f501dc65.png" width="200"/></a></td><td><a href="https://blog.surajdev.tech/how-i-run-a-full-ai-coding-stack-locally-zero-cost-zero-cloud-zero-compromise"><b>How I Run a Full AI Coding Stack Locally Zero Cost, Zero Cloud, Zero Compromise</b></a><br/>Apr 30, 2026</td></tr></table><!-- BLOG-POST-LIST:END -->
 
 <br>
 
