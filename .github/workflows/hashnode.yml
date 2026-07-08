@@ -20,8 +20,16 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.surajdev.tech/rss.xml"
-          max_post_count: 2
-          template: '<table><tr><td width="200"><a href="$url"><img src="$coverImage" width="200"/></a></td><td><a href="$url"><b>$title</b></a><br/>$date</td></tr></table>'
-          custom_tags: "coverImage/enclosure/url"
-          item_exec: "post.coverImage = item.enclosure && item.enclosure.url ? item.enclosure.url : '';"
+          max_post_count: 4
           date_format: "mmm d, yyyy"
+          template: '<table><tr><td width="300"><a href="$url">$coverImage</a></td><td><a href="$url"><b>$title</b></a><br/>$date</td></tr></table>'
+          custom_tags: "coverImage/enclosure/url"
+          item_exec: |
+            let cover = '';
+            if (item.enclosure && item.enclosure.url) {
+              cover = item.enclosure.url;
+            } else {
+              const m = (item['content:encoded'] || item.content || '').match(/<img[^>]+src="([^"]+)"/i);
+              if (m) cover = m[1];
+            }
+            post.coverImage = cover ? '<img src="' + cover + '" width="300"/>' : '';
