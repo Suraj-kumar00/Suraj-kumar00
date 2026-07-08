@@ -21,3 +21,6 @@ jobs:
         with:
           feed_list: "https://blog.surajdev.tech/rss.xml"
           max_post_count: 2
+          comment_tag_name: "HASHNODE_BLOG"
+          custom_tags: "coverImage/enclosure/url"
+          template: "<a href=\"$url\"><img src=\"$coverImage\" width=\"140\" align=\"left\" /></a> <b><a href=\"$url\">$title</a></b><br>$description<br><br>"
