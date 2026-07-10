@@ -22,7 +22,7 @@ jobs:
           feed_list: "https://blog.surajdev.tech/rss.xml"
           max_post_count: 4
           date_format: "mmm d, yyyy"
-          template: '<table><tr><td width="300"><a href="$url">$coverImage</a></td><td valign="top"><a href="$url"><b>$title</b></a><br/>$description<br/><sub>$date</sub></td></tr></table>'
+          template: '<table><tr><td width="150"><a href="$url"><img src="$coverImage" width="150"/></a></td><td valign="top"><a href="$url"><b>$title</b></a><br/>$description<br/><sub>$date</sub></td></tr></table>'
           custom_tags: "coverImage/enclosure/url"
           item_exec: |
             let cover = '';
@@ -32,8 +32,8 @@ jobs:
               const im = (item['content:encoded'] || item.content || '').match(/<img[^>]+src="([^"]+)"/i);
               if (im) cover = im[1];
             }
-            post.coverImage = cover ? '<img src="' + cover + '" width="300"/>' : '';
+            post.coverImage = cover;
             let raw = item.contentSnippet || item['content:encoded'] || item.content || item.description || '';
             let text = raw.replace(/<[^>]*>/g, ' ').replace(/&[a-z]+;/gi, ' ').replace(/\s+/g, ' ').trim();
-            if (text.length > 150) { text = text.slice(0, 150).trim() + '…'; }
+            if (text.length > 110) { text = text.slice(0, 110).trim() + '…'; }
             post.description = text;
