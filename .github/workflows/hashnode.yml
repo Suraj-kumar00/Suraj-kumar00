@@ -1,35 +1,39 @@
-name: 'Hashnode Blogs'
+name: "📚 Latest Blog"
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '17 2 * * *' # Daily at 02:17 UTC (07:47 AM IST)
+    - cron: "17 2 * * *" # Daily at 02:17 UTC (07:47 AM IST)
 
 permissions:
   contents: write
 
 jobs:
   update_blogs:
-    name: 'Hashnode Latest Blogs'
+    name: "Update With Latest Blogs"
     runs-on: ubuntu-latest
     steps:
-      - name: 'Checkout'
+      - name: "📥 Fetching Repository Contents"
         uses: actions/checkout@v4
 
-      - name: 'Pull latest Hashnode posts'
+      - name: "📚 Pull Latest Hashnode Posts"
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.surajdev.tech/rss.xml"
           max_post_count: 4
           date_format: "mmm d, yyyy"
-          template: '<table><tr><td width="300"><a href="$url">$coverImage</a></td><td><a href="$url"><b>$title</b></a><br/>$date</td></tr></table>'
+          template: '<table><tr><td width="300"><a href="$url">$coverImage</a></td><td valign="top"><a href="$url"><b>$title</b></a><br/>$description<br/><sub>$date</sub></td></tr></table>'
           custom_tags: "coverImage/enclosure/url"
           item_exec: |
             let cover = '';
             if (item.enclosure && item.enclosure.url) {
               cover = item.enclosure.url;
             } else {
-              const m = (item['content:encoded'] || item.content || '').match(/<img[^>]+src="([^"]+)"/i);
-              if (m) cover = m[1];
+              const im = (item['content:encoded'] || item.content || '').match(/<img[^>]+src="([^"]+)"/i);
+              if (im) cover = im[1];
             }
             post.coverImage = cover ? '<img src="' + cover + '" width="300"/>' : '';
+            let raw = item.contentSnippet || item['content:encoded'] || item.content || item.description || '';
+            let text = raw.replace(/<[^>]*>/g, ' ').replace(/&[a-z]+;/gi, ' ').replace(/\s+/g, ' ').trim();
+            if (text.length > 150) { text = text.slice(0, 150).trim() + '…'; }
+            post.description = text;
