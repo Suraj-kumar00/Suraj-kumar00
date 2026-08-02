@@ -22,33 +22,43 @@ jobs:
           feed_list: "https://blog.surajdev.tech/rss.xml"
           max_post_count: 4
           date_format: "mmm d, yyyy"
-          custom_tags: '["cover_image", "media:thumbnail"]'
           template: '<table><tr><td width="160"><a href="$url"><img src="$coverImage" width="160" alt="$title"/></a></td><td valign="top"><a href="$url"><b>$title</b></a><br/>$description<br/><sub>$date</sub></td></tr></table>'
           item_exec: |
             let cover = '';
-            
-            // 1. Direct Hashnode cover_image tag check
-            if (item.cover_image) {
-              cover = item.cover_image;
-            } 
-            // 2. Media thumbnail fallback
-            else if (item['media:thumbnail'] && item['media:thumbnail']['$'] && item['media:thumbnail']['$'].url) {
-              cover = item['media:thumbnail']['$'].url;
-            } 
-            // 3. Enclosure fallback
-            else if (item.enclosure && item.enclosure.url) {
+
+            // Helper function to extract img src from HTML body
+            const extractImg = (html) => {
+              if (!html || typeof html !== 'string') return '';
+              const match = html.match(/<img[^>]+src=["']([^"']+)["']/i);
+              return match ? match[1] : '';
+            };
+
+            // 1. Priority: Standard Hashnode RSS Enclosure
+            if (item.enclosure && typeof item.enclosure.url === 'string' && item.enclosure.url.startsWith('http')) {
               cover = item.enclosure.url;
-            } 
-            // 4. HTML Regex match fallback from post body
-            else {
-              const im = (item['content:encoded'] || item.content || item.description || '').match(/<img[^>]+src="([^"]+)"/i);
-              if (im) cover = im[1];
             }
-            
-            // Prevent broken broken image box if no image exists
-            post.coverImage = cover || 'https://cdn.hashnode.com/res/hashnode/image/upload/v1611242138218/426a86e7-0130-4e2a-89b4-b4a1b021d7c4.png';
-            
-            // Clean up description text
+
+            // 2. Priority: Custom cover_image if it's a string
+            if (!cover && typeof item.cover_image === 'string' && item.cover_image.startsWith('http')) {
+              cover = item.cover_image;
+            }
+
+            // 3. Priority: Fallback to extracting first <img> inside body content
+            if (!cover) {
+              cover = extractImg(item['content:encoded']) || extractImg(item.content) || extractImg(item.description);
+            }
+
+            // Clean up XML entities in URL
+            cover = cover.replace(/&amp;/g, '&');
+
+            // Fallback image if no cover is found
+            if (!cover || typeof cover !== 'string' || !cover.startsWith('http')) {
+              cover = 'https://cdn.hashnode.com/res/hashnode/image/upload/v1611242138218/426a86e7-0130-4e2a-89b4-b4a1b021d7c4.png';
+            }
+
+            post.coverImage = cover;
+
+            // Clean description text
             let raw = item.contentSnippet || item['content:encoded'] || item.content || item.description || '';
             let text = raw.replace(/<[^>]*>/g, ' ').replace(/&[a-z]+;/gi, ' ').replace(/\s+/g, ' ').trim();
             if (text.length > 110) { text = text.slice(0, 110).trim() + '…'; }
