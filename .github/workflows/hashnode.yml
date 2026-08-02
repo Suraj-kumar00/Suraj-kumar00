@@ -16,50 +16,75 @@ jobs:
       - name: "📥 Fetching Repository Contents"
         uses: actions/checkout@v4
 
-      - name: "📚 Pull Latest Hashnode Posts"
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - name: "🌐 Fetch Hashnode Posts via GraphQL & Update README"
+        uses: actions/github-script@v7
         with:
-          feed_list: "https://blog.surajdev.tech/rss.xml"
-          max_post_count: 4
-          date_format: "mmm d, yyyy"
-          template: '<table><tr><td width="160"><a href="$url"><img src="$coverImage" width="160" alt="$title"/></a></td><td valign="top"><a href="$url"><b>$title</b></a><br/>$description<br/><sub>$date</sub></td></tr></table>'
-          item_exec: |
-            let cover = '';
+          script: |
+            const fs = require('fs');
 
-            // Helper function to extract img src from HTML body
-            const extractImg = (html) => {
-              if (!html || typeof html !== 'string') return '';
-              const match = html.match(/<img[^>]+src=["']([^"']+)["']/i);
-              return match ? match[1] : '';
-            };
+            // 1. Query Hashnode Official GraphQL API
+            const query = `
+              query {
+                publication(host: "blog.surajdev.tech") {
+                  posts(first: 4) {
+                    edges {
+                      node {
+                        title
+                        url
+                        publishedAt
+                        brief
+                        coverImage {
+                          url
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            `;
 
-            // 1. Priority: Standard Hashnode RSS Enclosure
-            if (item.enclosure && typeof item.enclosure.url === 'string' && item.enclosure.url.startsWith('http')) {
-              cover = item.enclosure.url;
+            const response = await fetch('https://gql.hashnode.com', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ query })
+            });
+
+            const result = await response.json();
+            const posts = result.data.publication.posts.edges.map(e => e.node);
+
+            // 2. Build HTML Table Snippet
+            let tableHtml = '';
+            for (const post of posts) {
+              const date = new Date(post.publishedAt).toLocaleDateString('en-US', {
+                month: 'short',
+                day: 'numeric',
+                year: 'numeric'
+              });
+              
+              const brief = post.brief.length > 110 ? post.brief.slice(0, 110).trim() + '…' : post.brief;
+              const cover = post.coverImage?.url || 'https://cdn.hashnode.com/res/hashnode/image/upload/v1611242138218/426a86e7-0130-4e2a-89b4-b4a1b021d7c4.png';
+
+              tableHtml += `<table><tr><td width="160"><a href="${post.url}"><img src="${cover}" width="160" alt="${post.title}"/></a></td><td valign="top"><a href="${post.url}"><b>${post.title}</b></a><br/>${brief}<br/><sub>${date}</sub></td></tr></table>`;
             }
 
-            // 2. Priority: Custom cover_image if it's a string
-            if (!cover && typeof item.cover_image === 'string' && item.cover_image.startsWith('http')) {
-              cover = item.cover_image;
-            }
+            // 3. Inject into README between comment tags
+            let readme = fs.readFileSync('README.md', 'utf8');
+            const startTag = '<!-- BLOG-POST-LIST:START -->';
+            const endTag = '<!-- BLOG-POST-LIST:END -->';
+            
+            const regex = new RegExp(`${startTag}[\\s\\S]*?${endTag}`);
+            const updatedReadme = readme.replace(regex, `${startTag}\n${tableHtml}\n${endTag}`);
+            
+            fs.writeFileSync('README.md', updatedReadme);
 
-            // 3. Priority: Fallback to extracting first <img> inside body content
-            if (!cover) {
-              cover = extractImg(item['content:encoded']) || extractImg(item.content) || extractImg(item.description);
-            }
-
-            // Clean up XML entities in URL
-            cover = cover.replace(/&amp;/g, '&');
-
-            // Fallback image if no cover is found
-            if (!cover || typeof cover !== 'string' || !cover.startsWith('http')) {
-              cover = 'https://cdn.hashnode.com/res/hashnode/image/upload/v1611242138218/426a86e7-0130-4e2a-89b4-b4a1b021d7c4.png';
-            }
-
-            post.coverImage = cover;
-
-            // Clean description text
-            let raw = item.contentSnippet || item['content:encoded'] || item.content || item.description || '';
-            let text = raw.replace(/<[^>]*>/g, ' ').replace(/&[a-z]+;/gi, ' ').replace(/\s+/g, ' ').trim();
-            if (text.length > 110) { text = text.slice(0, 110).trim() + '…'; }
-            post.description = text;
+      - name: "🚀 Commit & Push Changes"
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes detected in README.md"
+          else
+            git commit -m "chore: update latest blog posts from Hashnode API"
+            git push
+          fi
